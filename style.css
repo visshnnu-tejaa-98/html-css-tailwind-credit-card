@@ -1,7 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 body {
   max-width: 1440px !important;
   margin: 0 auto !important;
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
 }
 .module-border-wrap {
   width: 350px;
